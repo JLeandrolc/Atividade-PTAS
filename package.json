@@ -1,0 +1,11 @@
+{
+  "name": "atividade-ptas",
+  "version": "1.0.0",
+  "description": "projeto da atividade de ptas - jorgeleandro info4b ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Leandro",
+  "license": "ISC"
+}
