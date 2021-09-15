@@ -1,0 +1,30 @@
+header{
+  border:1px solid #363636;
+  text-align: center;
+  background-color: #363636;
+  color: white;
+  height: 40px;
+
+}
+
+body{
+background-color: #F9F3DF;
+}
+
+footer{
+  border:1px solid #363636;
+  background-color: #363636;
+  color:white;
+}
+
+.logo1{
+margin-top: 10px;
+}
+
+.logo2{
+margin-left: 500px;
+}
+.pessoas{
+  margin-left: 600px;
+  margin-top: -270px;
+}
